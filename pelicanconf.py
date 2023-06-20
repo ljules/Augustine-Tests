@@ -20,6 +20,7 @@ DEFAULT_LANG = 'fr'
 THEME = 'THEMES/notmyidea_perso'
 PATH = 'content'
 STATIC_PATHS = ['images']
+OUTPUT_PATH = 'docs'
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
