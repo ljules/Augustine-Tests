@@ -10,7 +10,7 @@
 AUTHOR = 'Prof'
 SITENAME = 'Augustine'
 SITESUBTITLE = 'Phase de test'
-SITEURL = ''
+SITEURL = 'https://ljules.github.io/Augustine-Tests'
 TIMEZONE = 'Europe/Paris'
 DEFAULT_LANG = 'fr'
 
@@ -20,10 +20,10 @@ DEFAULT_LANG = 'fr'
 THEME = 'THEMES/notmyidea_perso'
 PATH = 'content'
 STATIC_PATHS = ['images']
-OUTPUT_PATH = 'docs'
+OUTPUT_PATH = 'docs'    # Attention, pour la publication sur GitHub Pages le dossier doit être "/docs"
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+#RELATIVE_URLS = True
 
 
 # OPTION DE STRUCTURATION DU SITE :
