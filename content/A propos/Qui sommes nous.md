@@ -5,7 +5,7 @@ date: 2023-06-13
 ## Le BTS CPI du lycée Léonard de Vinci :
 La sections des **B.T.S. C.P.I.** (**C**onception de **P**roduits **I**ndustriels) du Lycée **Léonard de Vinci** à Melun (77) ont imaginé, conçu et réaliser le véhicule nommé ***AUGUSTINE*** qu'ils améliorent au gré des années.
 
-<img src="../images/logo&baseline-fondblanc.png" width="200" border=1px alt="Logo Lycée Léonard de Vinci">
+<img src="{static}/images/logo&baseline-fondblanc.png" width="200" border=1px alt="Logo Lycée Léonard de Vinci">
 
 C'est un véhicule qui a été spécifiquement pensé et réalisé pour participer au challenge **Shell Eco-marathon**. 
 En participant à cette course, l'équipe enseignante souhaite **mobiliser les étudiants autour d’un projet technique et novateur pour favoriser l’économie d’énergie et la protection de l’environnement**.
@@ -21,7 +21,7 @@ Notre véhicule **Augustine** a des objectif qui vont au-delà de la pure techni
 ## Pourquoi le nom d'Augustine ?
 Le nom **Augustine** a été trouvé pour rendre hommage à *Augustin Mouchot*, un célèbre inventeur qui a son époque a inventé le four solaire. De surcroit ce fût également un professeur qui au début du siècle a été très moteur dans la réalisation de son projet.
 
-<img src="../images/Mouchot.jpeg" width="120" alt="Monsieur Augustin Mouchot">
+<img src="{static}/images/Mouchot.jpeg" width="120" alt="Monsieur Augustin Mouchot">
 
 >En savoir plus sur Monsieur Augustin Mouchot, un petit tour sur *Wikipédia* : [Article Wikipédia Augustin Mouchot](https://fr.wikipedia.org/wiki/Augustin_Mouchot)
 
@@ -29,7 +29,7 @@ Le nom **Augustine** a été trouvé pour rendre hommage à *Augustin Mouchot*, 
 ## Rouler avec une énergie propre :
 Nous avons adopté l'énergie électrique pour propulser notre véhicule **Augustine** !
 
-<img src="../images/Augustine_en_course.jpg" width="500" alt="Augustine en action durant le marathon Shell de Londres">
+<img src="{static}/images/Augustine_en_course.jpg" width="500" alt="Augustine en action durant le marathon Shell de Londres">
 
 
 ## L'association Tournesol :
@@ -38,7 +38,7 @@ L’éco mobilité est toujours un secteur porteur. L’impact environnemental e
 
 
 
-<img src="../images/Logo_tournesol.jpg" width="200" alt="Logo de l'association Tournesol">
+<img src="{static}/images/Logo_tournesol.jpg" width="200" alt="Logo de l'association Tournesol">
 
 ## **Nous contacter :**
 

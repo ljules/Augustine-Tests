@@ -2,7 +2,7 @@ title: Equipe 2023
 date: 2023-06-12 12:30
 category: Les équipes
 
-L'équipe pour la session 2023 du Shell Eco-marathon était constitué d'encadarants et d'étudiants du BTS CPI :
+L'équipe pour la session 2023 du Shell Eco-marathon était constituée d'encadarants et d'étudiants du BTS CPI :
 
 ## Les encadrants :
 - M. Thierry MARTIN (assistant technique)

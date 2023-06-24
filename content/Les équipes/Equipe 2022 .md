@@ -4,7 +4,7 @@ category: Les équipes
 
 Après une interruption de 2 ans (période COVID), le Shell Eco-marathon rouvre la compétition sur nos terres Françaises,  sur le circuit de **Nogaro** dans le Gers.
 
-L'équipe pour la session 2022 du Marathon-Shell était constitué d'encadarants et d'étudiants du BTS CPI :
+L'équipe pour la session 2022 du Marathon-Shell était constituée d'encadarants et d'étudiants du BTS CPI :
 
 ## Les encadrants :
 - M. Thierry MARTIN (assistant technique)
