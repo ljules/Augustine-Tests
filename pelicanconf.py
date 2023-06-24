@@ -23,7 +23,7 @@ STATIC_PATHS = ['images']
 OUTPUT_PATH = 'docs'    # Attention, pour la publication sur GitHub Pages le dossier doit être "/docs"
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 
 # OPTION DE STRUCTURATION DU SITE :

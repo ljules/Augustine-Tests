@@ -21,7 +21,13 @@ Notre véhicule **Augustine** a des objectif qui vont au-delà de la pure techni
 ## Pourquoi le nom d'Augustine ?
 Le nom **Augustine** a été trouvé pour rendre hommage à *Augustin Mouchot*, un célèbre inventeur qui a son époque a inventé le four solaire. De surcroit ce fût également un professeur qui au début du siècle a été très moteur dans la réalisation de son projet.
 
-<img src="{static}/images/Mouchot.jpeg" width="120" alt="Monsieur Augustin Mouchot">
+
+<figure>
+    <img src="{static}/images/Mouchot.jpeg" width="120" alt="Monsieur Augustin Mouchot">
+    <figcaption>Portrait de M. Augustin MOUCHOT</figcaption>
+</figure>
+
+
 
 >En savoir plus sur Monsieur Augustin Mouchot, un petit tour sur *Wikipédia* : [Article Wikipédia Augustin Mouchot](https://fr.wikipedia.org/wiki/Augustin_Mouchot)
 
@@ -29,8 +35,10 @@ Le nom **Augustine** a été trouvé pour rendre hommage à *Augustin Mouchot*, 
 ## Rouler avec une énergie propre :
 Nous avons adopté l'énergie électrique pour propulser notre véhicule **Augustine** !
 
-<img src="{static}/images/Augustine_en_course.jpg" width="500" alt="Augustine en action durant le marathon Shell de Londres">
-
+<figure>
+    <img src="{static}/images/Augustine_en_course.jpg" width="500" alt="Augustine en action durant le marathon Shell de Londres">
+    <figcaption>Augustine en action sur le circuit de Londres</figcaption>
+</figure>
 
 ## L'association Tournesol :
 Afin de rendre le projet plus interactif, les enseignants ont mis en place une convention inter-lycées et une  Association **TOURNESOL**. Ces initiatives ont pour objectif de mutualiser les moyens numériques et connaissances de chacun des étudiants.
